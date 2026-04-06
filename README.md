@@ -172,6 +172,7 @@ npm run deploy
 
 ## License
 
-Encypher Source Available License 1.0. You may use and modify this worker
-to deploy on domains you control in connection with the Encypher API. You
-may not use it to build a competing service. See LICENSE for full terms.
+Business Source License 1.1. You may use and modify this worker to deploy
+on domains you control in connection with the Encypher API. You may not use
+it to build a competing content provenance service. Converts to Apache 2.0
+four years from first publication. See LICENSE for full terms.
