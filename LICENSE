@@ -1,0 +1,24 @@
+Encypher Source Available License 1.0
+Copyright (c) 2026 Encypher Corporation
+
+Permission is granted to use, copy, and modify this software solely for
+the purpose of deploying it on domains you control in connection with the
+Encypher content provenance API (api.encypher.com).
+
+The following uses are not permitted:
+
+  1. Using this software in connection with any content provenance,
+     watermarking, or attribution service other than Encypher.
+  2. Redistributing this software as a standalone product or component
+     of a competing offering.
+  3. Removing or altering this license notice or Encypher attribution.
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. IN NO
+EVENT SHALL ENCYPHER CORPORATION BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+This license does not grant any rights to the Encypher API, signing
+infrastructure, marker embedding protocol, or verification services,
+which are governed by separate terms at encypher.com/terms.
+
+For licensing inquiries: legal@encypher.com
